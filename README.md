@@ -10,7 +10,7 @@ I enjoy making projects that combine **electronics, programming, 3D printing and
 
 A collection of interactive classroom resources, games and activities that I've created for use in education.
 
-➡️ [View the classroom resources](https://github.com/C-J-Williams/class)
+➡️ [View the classroom resources](https://c-j-williams.github.io/class/)
 
 ---
 
