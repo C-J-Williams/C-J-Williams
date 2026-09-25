@@ -14,11 +14,11 @@ A collection of interactive classroom resources, games and activities that I've 
 
 ---
 
-### 💡 ESP32 Projects
+💡 ESP32 Colour Nightlight
 
-I'm currently developing a number of projects using ESP32 boards, custom electronics and 3D-printed parts.
+A small ESP32-C3 project combining and IPS display, rotary encoder, NEO pixels and a 3D printed enclosure to build a custom nightlight.
 
-More projects will be added here as they are completed.
+Project files coming soon.
 
 ---
 
@@ -30,7 +30,7 @@ My projects may include:
 * Electronics schematics
 * PCB designs
 * 3D-printable STL files
-* FreeCAD and STEP models
+* FreeCAD models
 * Wiring diagrams
 * Parts lists
 * Assembly instructions
